@@ -8,12 +8,5 @@ Here are some of the data analysis projects I have worked on:
 - Insight: Retention rate <3%, churn tinggi
 - Recommendation: Loyalty program & delivery SLA
 
-## 🔹 Project 2 – UK Retail Sales
-- Tools: Python, Cohort Analysis, Price Elasticity
-- Insight: Peak sales Nov 2019 (£7.8M), retention 33.5%
-- Recommendation: Seasonal promo & weekend flash sale
-
----
-
 👩‍💻 Author: Devi Aulia Oktaviona  
 📧 Email: dauliaoktaviona@gmail.com | [LinkedIn](https://linkedin.com/in/dauliaoktaviona)
